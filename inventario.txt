@@ -1,0 +1,2 @@
+id;nombre;cantidad;precio
+0002;ACEITE DE LITRO;2;20.0
